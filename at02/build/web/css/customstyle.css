@@ -1,0 +1,110 @@
+#fundo {
+    min-width: 100vw;
+    min-height: 100vh;
+    margin:0px;
+    padding:0px;
+    background-image: url('../imgs/bg.jpg');
+}
+
+#cabecalho {
+
+    min-height: 85vh;
+    margin: auto;
+}
+
+h1#titulo {
+    font-size: 6em;
+}
+
+label {
+    font-size: 1em;
+}
+input {
+    font-size: 1em;
+}
+
+#formulario{
+    font-size: 2em;
+}
+
+#rodapeText {
+    font-size: 2em;
+}
+
+hr {
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 1);
+}
+
+#fundoError {
+    min-width: 100vw;
+    min-height: 100vh;
+    margin:0px;
+    padding:0px;
+    
+}
+
+#cabecalhoError {
+
+    min-height: 85vh;
+    margin: auto;
+    background-color:rgb(21, 32,19);
+    
+}
+
+#errorImg {
+    margin: auto;
+}
+
+#fundoMain {
+    min-width: 100vw;
+    min-height: 45vh;
+    margin:0px;
+    padding:0px;
+    background-image: url('../imgs/main.JPG');
+}
+
+#cabecalhoMain {
+
+    
+    margin: auto;
+}
+#formularioMain{
+    font-size: 2em;
+    padding-left : 50px;
+    padding-right: 50px;
+}
+
+#subTitulo {
+    font-size: 3em;
+}
+#infoControl {
+    font-size: 2em;
+}
+
+#usersTable{
+    margin : auto;
+}
+
+#fundoLogout {
+    min-width: 100vw;
+    min-height: 100vh;
+    margin:0px;
+    padding:0px;
+    
+}
+
+#cabecalhoLogout {
+
+    min-height: 85vh;
+    margin: auto;
+    background-color:rgb(237, 235, 235); 
+}
+
+#rodapeLogout {
+        background-color:rgb(21, 32,19);
+        min-height: 15vh;
+}
